@@ -14,7 +14,7 @@
  * ------------------------------------------------------------------------------------
  */
 
-#include "reports.h"
+#include "Reports.h"
 #include "types.h"
 #include "honor.h"
 #include "storage.h"
