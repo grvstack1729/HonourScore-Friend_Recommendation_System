@@ -40,7 +40,7 @@
 #include "auth.h"
 #include "graph_ops.h"
 #include "recommender.h"
-#include "reports.h"
+#include "Reports.h"
 
 #include <iostream>
 #include <sstream>
