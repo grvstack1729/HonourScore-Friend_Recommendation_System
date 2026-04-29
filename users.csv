@@ -1,0 +1,22 @@
+userId,name,age,school,hobby,profession,interest,honorScore,isAdmin,password
+U1006,Ananya,20,BITS Pilani,Reading,Software Engineer,Literature,74,0,ananya123
+U1009,Aditya,23,IIT Bombay,Cricket,DevOps Engineer,Sports,69,0,aditya123
+U1003,Rahul,23,IIT Delhi,Cricket,Mechanical Engineer,Sports,71,0,rahul123
+U1008,Kavya,22,BITS Pilani,Painting,UI Designer,Art,66,0,kavya123
+U1007,Rohan,21,DIT Dehradun,Coding,Web Developer,AI,70,0,rohan123
+U1018,Ayush,23,DIT Dehradun,Gaming,Game Developer,Gaming,45,0,ayush123
+U1004,Sneha,22,DIT Dehradun,Dancing,Software Engineer,Music,67,0,sneha123
+U1013,Riya,22,BITS Pilani,Photography,UI Designer,Art,76,0,riya123
+U1016,Nikhil,22,IIT Delhi,Coding,Cybersecurity Engineer,Tech,75,0,nikhil123
+U1001,Arjun,21,DIT Dehradun,Coding,Software Engineer,AI,88,0,arjun123
+U1002,Priya,20,DIT Dehradun,Coding,Designer,AI,77,0,priya123
+U1005,Vikram,24,IIT Delhi,Gaming,Data Scientist,AI,68,0,vikram123
+U1014,Karan,23,IIT Bombay,Cricket,Backend Developer,Sports,63,0,karan123
+U1020,Harsh,22,DIT Dehradun,Cricket,Software Engineer,Sports,68,0,harsh123
+U1010,Ishaan,21,DIT Dehradun,Music,Software Engineer,Music,73,0,ishaan123
+U1011,Meera,20,DIT Dehradun,Dancing,Data Scientist,AI,72,0,meera123
+U1015,Pooja,21,DIT Dehradun,Reading,Software Engineer,Literature,72,0,pooja123
+ADMIN,Administrator,0,,,,,100,1,admin123
+U1017,Tanya,20,BITS Pilani,Music,Frontend Developer,Music,74,0,tanya123
+U1012,Siddharth,24,IIT Delhi,Gaming,Machine Learning Engineer,AI,67,0,sid123
+U1019,Divya,21,IIT Bombay,Painting,Data Scientist,Art,70,0,divya123
