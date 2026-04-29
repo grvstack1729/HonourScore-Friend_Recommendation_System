@@ -40,7 +40,7 @@ cd daa-friend-recommendation
 **2. Compile the C++ Backend:**
 Make sure you have GCC/MinGW installed with POSIX thread support.
 \`\`\`powershell
-g++ *.cpp -o server.exe -lws2_32
+g++ -std=c++17 -Wall -O2 server.cpp auth.cpp graph_ops.cpp honor.cpp recommender.cpp storage.cpp utils.cpp Reports.cpp -o server.exe -pthread
 \`\`\`
 
 **3. Start the Server:**
